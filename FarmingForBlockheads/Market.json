@@ -27,13 +27,13 @@
     "__comment": "You can define custom amounts for the default entries here.",
     "Vanilla Seeds": 1,
     "Vanilla Flowers": 1,
-    "Pams Harvestcraft Saplings": 1,
+    "Pams Harvestcraft Saplings": 2,
     "Vanilla Mushrooms": 1,
     "Forestry Saplings": 1,
     "Vanilla Saplings": 1,
     "Bonemeal": 1,
-    "Animal Eggs": 1,
-    "Pams Harvestcraft Seeds": 1
+    "Animal Eggs": 4,
+    "Pams Harvestcraft Seeds": 2
   },
   "defaults blacklist": [
     "examplemod:example_item"
